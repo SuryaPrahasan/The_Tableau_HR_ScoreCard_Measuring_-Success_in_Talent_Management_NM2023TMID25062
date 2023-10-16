@@ -1,1 +1,2 @@
-# The_Tableau_HR_ScoreCard_Measuring_-Success_in_Talent_Management_NM2023TMID25062
+
+# Dashboard - https://public.tableau.com/views/sandy_16973658364260/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link
